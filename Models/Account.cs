@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace jelly-beans.Models
+namespace jellybeans.Models
 {
     public class Account
     {
