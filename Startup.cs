@@ -14,10 +14,10 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using MySqlConnector;
-using jelly-beans.Repositories;
-using jelly-beans.Services;
+using jellybeans.Repositories;
+using jellybeans.Services;
 
-namespace jelly-beans
+namespace jellybeans
 {
     public class Startup
     {
